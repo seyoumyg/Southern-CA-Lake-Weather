@@ -5,3 +5,4 @@ notebook
 plotly
 ipywidgets
 pandas
+voila
