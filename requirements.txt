@@ -1,6 +1,5 @@
 datetime
 numpy
-jupyter lab
 notebook
 plotly
 ipywidgets
