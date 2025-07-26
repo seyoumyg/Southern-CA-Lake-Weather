@@ -6,4 +6,4 @@ ipywidgets
 pandas
 voila
 panel
-IPython.display
+
